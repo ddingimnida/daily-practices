@@ -1,0 +1,103 @@
+.main-head {
+    width: 300px;
+    border: solid 1px red;
+    height: 250px;
+    margin-bottom: 0;
+}
+.head {
+    width: 298px;
+    border: solid 1px rgb(0, 255, 106);
+    height: 60px;
+    display: flex;
+    padding-bottom: 8px;
+    justify-content: left;
+
+
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 10px 5px 0 10px;
+    display:inline-block;
+}
+.texti {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    font-size: 7px;
+    padding-top: 20px;
+    margin-left: 4px;
+    letter-spacing: 1px;
+    
+}
+p {
+    margin: 0;
+    display: flex;
+}
+.body {
+    width: 298px;
+    height: 150px;
+    border: solid 1px rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+
+}
+.ins-body {
+    width: 270px;
+    height: 120px;
+    border: solid 1px green;
+    padding: 3px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    
+}
+.fbox {
+    width: 70px;
+    height: 60px;
+    border: solid 1px rgba(170, 5, 129, 0.699);
+    text-align: center;
+    align-content: center;
+}
+.sbox {
+    width: 70px;
+    height: 60px;
+    border: solid 1px rgba(238, 63, 10, 0.699);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+
+
+}
+.sbox1 {
+    width: 40px;
+    height: 20px;
+    border: solid 1px rgba(4, 111, 199, 0.699);
+    font-size: 10px;
+    text-align: center;
+    align-content: center;
+}
+.footer {
+    width: 298px;
+    height: 26px;
+    border: solid 1px rgba(119, 3, 94, 0.788);
+    align-content: center;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+h1 {
+    font-size: 13px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    
+
+}
